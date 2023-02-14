@@ -2,7 +2,7 @@ public class EstruturaDeSelecao {
     public static void main(String[] args){
         int idade;
 
-        idade=17;
+        idade=21;
         if (idade >= 18)
         {
             System.out.print( "apto ao Serviço Militar Obrigatorio!");
