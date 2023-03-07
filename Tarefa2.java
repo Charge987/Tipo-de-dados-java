@@ -17,7 +17,7 @@ public class Tarefa2 {
         {
         System.out.print( "Abaixo do Peso");
         }
-        else if( IMC >=18.5  && IMC <=24.9){
+        else if( IMC <=18.5  && IMC <=24.9){
             System.out.print(  "Peso Normal");
         }
         else if( IMC >=25.0 && IMC <= 29.9){
